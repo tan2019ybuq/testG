@@ -7,5 +7,6 @@ public class Test {
 		System.out.println("test1");
 		System.out.println("hotfix_G");
 		System.out.println("hotfix_G2");
+		System.out.println("idea");
 	}
 }
