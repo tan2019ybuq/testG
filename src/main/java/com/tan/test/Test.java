@@ -8,5 +8,6 @@ public class Test {
 		System.out.println("hotfix_G");
 		System.out.println("hotfix_G2");
 		System.out.println("idea");
-	}
+        System.out.println("01");
+    }
 }
